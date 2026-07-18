@@ -12,7 +12,6 @@ I am a **Software Developer** specializing in building intelligent applications,
 
 ### 🔭 What I'm Currently Working On
 *   **AI RAG Chatbot**: Developing a custom Retrieval-Augmented Generation (RAG) chatbot using vector databases and LLM APIs to answer queries based on custom knowledge bases.
-*   **[Dough & Drama](https://github.com/Suyyash5/Dough-and-Drama)**: A premium, installable Progressive Web App (PWA) craft pizzeria site featuring visual coordinates, offline caching, and instant reservation states.
 
 ### 🌱 What I'm Learning & Exploring
 *   AI orchestration frameworks (like LangChain and LlamaIndex).
