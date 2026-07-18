@@ -48,14 +48,22 @@ I am a **Software Developer** specializing in building intelligent applications,
 
 ---
 
-### 📊 GitHub Stats
+### ⚡ Developer Trivia & Setup
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suyyash5&show_icons=true&theme=dark" alt="Suyyash's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suyyash5&layout=compact&theme=dark" alt="Top Langs" width="48%" />
+| Category | Preference / Detail |
+| :--- | :--- |
+| 💻 **Primary OS** | Windows 11 |
+| 🚀 **Code Editor** | VS Code (with custom Dark theme) |
+| ☕ **Fueled By** | Premium Coffee & Clean Code |
+| 🎧 **Coded to** | Rock & Heavy Metal 🤘 |
+
+
+---
+
+### 💡 Daily Dev Quote
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Daily Programming Quote" />
 </p>
-
-*(Note: If the stats cards do not load immediately, it is because the public Vercel stats server is currently rate-limited by GitHub. They will automatically refresh and appear shortly!)*
 
 ---
 
